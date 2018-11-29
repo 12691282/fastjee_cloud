@@ -61,16 +61,6 @@
     127.0.0.1       fastjee-registration.com
     127.0.0.1       fastjee-usercenter.com
     
-**拉取项目：**
-
-clone项目:
-
-    git clone https://gitee.com/wuwenze/Fastjee.git
-
-再fork配置中心仓库到你的账户，再拉取代码到本地:
-https://gitee.com/wuwenze/fastjee-config-repo
-
-    git clone https://gitee.com/{{yourUsername}}/fastjee-config-repo.git
     
 
 **导入项目、修改配置：**
